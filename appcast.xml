@@ -1,6 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>ThoughtStream Beta</title><link>https://github.com/ricburton/thoughtstream-releases/releases</link><description>Signed ThoughtStream Mac beta updates</description><language>en</language></channel></rss><!-- sparkle-signatures:
-edSignature: 7XywvlFChoOE3v9IcxnxP9iB2XrvMj45etjMVsb4E8LdhBPsbBZsiz8nsQ+r9Yu9Ri9YdEoOtxvvtVoniS8RBw==
-length: 596
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ThoughtStream Beta</title>
+        <link>https://github.com/ricburton/thoughtstream-releases/releases</link>
+        <description>Signed ThoughtStream Mac beta updates</description>
+        <language>en</language>
+        <item>
+            <title>0.9.0</title>
+            <pubDate>Sun, 25 Oct 2026 20:08:54 -0700</pubDate>
+            <link>https://github.com/ricburton/thoughtstream-releases/releases/tag/v0.9.0-b26</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>ThoughtStream 0.9.0 Beta</h2><p>Build 26. Signed and notarized Mac beta with secure in-app updates.</p>]]></description>
+            <enclosure url="https://github.com/ricburton/thoughtstream-releases/releases/download/v0.9.0-b26/ThoughtStream-0.9.0-26-Apple-Silicon.zip" length="201252242" type="application/octet-stream" sparkle:edSignature="H+z4vRzQjAxdANjFvq8Iy+oX6HhA+pvXRI6QxO+YhfeRQYuqyMQcD4oNHT/ozEG3VRfr7ik5aRpc0SQQynnzDQ=="/>
+        </item>
+    </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: 7VYoqP8VCQrRallavmZgAO56vUmuLEPgDBN8Gfc6lg0Y1CptVSeExJJJXwW7cE/i2/GTBFc4IOGSXcx8k/1RCQ==
+length: 1682
 -->
