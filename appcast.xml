@@ -10,6 +10,18 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <language>en</language>
         <item>
             <title>0.9.0</title>
+            <pubDate>Mon, 09 Nov 2026 17:40:47 -0600</pubDate>
+            <link>https://github.com/ricburton/thoughtstream-releases/releases/tag/v0.9.0-b27</link>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>ThoughtStream 0.9.0 Beta</h2><p>Build 27. Signed and notarized Mac beta with secure in-app updates.</p>]]></description>
+            <enclosure url="https://github.com/ricburton/thoughtstream-releases/releases/download/v0.9.0-b27/ThoughtStream-0.9.0-27-Apple-Silicon.zip" length="201305901" type="application/octet-stream" sparkle:edSignature="4YnRC5ByrAjehX/e+2uCOEp59orGXWCBQQWD2bTX2aEakSyayIjL8WNJ8eDTCx2Bj/mXWevlro8qW4q2jkzdAg=="/>
+        </item>
+        <item>
+            <title>0.9.0</title>
             <pubDate>Sun, 25 Oct 2026 20:08:54 -0700</pubDate>
             <link>https://github.com/ricburton/thoughtstream-releases/releases/tag/v0.9.0-b26</link>
             <sparkle:channel>beta</sparkle:channel>
@@ -23,6 +35,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 7VYoqP8VCQrRallavmZgAO56vUmuLEPgDBN8Gfc6lg0Y1CptVSeExJJJXwW7cE/i2/GTBFc4IOGSXcx8k/1RCQ==
-length: 1682
+edSignature: tfCUmjzjRJ07blbeO9x9kldV5Ca+GuzyCcePE9oQ5zmDKrWX6GRslWP6Cf4lIUD+bRxSbqDwFOTT2LysnaDmCA==
+length: 2718
 -->
