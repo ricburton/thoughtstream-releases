@@ -20,7 +20,7 @@ ThoughtStream is a native Mac workspace for coding agents. Open a folder and ask
 
 Build 30 gives each chat its own pane and adds a Command Bar. Large saved workspaces restore with a shallower layout, and offscreen chats load their transcripts when revealed. The distribution bundle is named **ThoughtStream Beta.app**.
 
-[Download the build 30 source ZIP](https://github.com/ricburton/ThoughtStream/archive/8f5a1aa829b5e9a5c67b36bb105ca2a7b7223751.zip) · [Build instructions](https://github.com/ricburton/ThoughtStream/blob/8f5a1aa829b5e9a5c67b36bb105ca2a7b7223751/README.md#build-from-source)
+[Build 30 prerelease notes](https://github.com/ricburton/ThoughtStream/releases/tag/v0.9.0-b30-source) · [Download the build 30 source ZIP](https://github.com/ricburton/ThoughtStream/archive/8f5a1aa829b5e9a5c67b36bb105ca2a7b7223751.zip) · [Build instructions](https://github.com/ricburton/ThoughtStream/blob/8f5a1aa829b5e9a5c67b36bb105ca2a7b7223751/README.md#build-from-source)
 
 ## Updates and support
 
