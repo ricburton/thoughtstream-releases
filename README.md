@@ -2,6 +2,12 @@
 
 ThoughtStream is a native Mac workspace for coding agents. Open a folder and ask a question about the code. As the agent works, the feed shows its commands, edits, diffs and replies. Your chats and drafts are saved on your Mac.
 
+## Screenshots
+
+| Side-by-side conversations | Activity logs |
+| --- | --- |
+| [![Four chat columns with the rightmost column split into two chats.](screenshots/conversations.png)](screenshots/conversations.png) | [![The same workspace with command output and tool results expanded above the chats.](screenshots/activity-logs.png)](screenshots/activity-logs.png) |
+
 ## Download and install
 
 [Download the notarized Mac beta, build 27](https://github.com/ricburton/thoughtstream-releases/releases/download/v0.9.0-b27/ThoughtStream-0.9.0-27-Apple-Silicon.zip) · [Release notes](https://github.com/ricburton/thoughtstream-releases/releases/tag/v0.9.0-b27)
@@ -15,16 +21,6 @@ ThoughtStream is a native Mac workspace for coding agents. Open a folder and ask
 Build 30 gives each chat its own pane and adds a Command Bar. Large saved workspaces restore with a shallower layout, and offscreen chats load their transcripts when revealed. The distribution bundle is named **ThoughtStream Beta.app**.
 
 [Download the build 30 source ZIP](https://github.com/ricburton/ThoughtStream/archive/8f5a1aa829b5e9a5c67b36bb105ca2a7b7223751.zip) · [Build instructions](https://github.com/ricburton/ThoughtStream/blob/8f5a1aa829b5e9a5c67b36bb105ca2a7b7223751/README.md#build-from-source)
-
-## Screenshots
-
-**Side-by-side conversations**
-
-![ThoughtStream Beta showing four chat columns, with the rightmost column split into two chats.](screenshots/conversations.png)
-
-**Activity logs**
-
-![The same workspace with command output and tool results expanded above the conversations.](screenshots/activity-logs.png)
 
 ## Updates and support
 
