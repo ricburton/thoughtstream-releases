@@ -16,6 +16,16 @@ Build 30 gives each chat its own pane and adds a Command Bar. Large saved worksp
 
 [Download the build 30 source ZIP](https://github.com/ricburton/ThoughtStream/archive/8f5a1aa829b5e9a5c67b36bb105ca2a7b7223751.zip) · [Build instructions](https://github.com/ricburton/ThoughtStream/blob/8f5a1aa829b5e9a5c67b36bb105ca2a7b7223751/README.md#build-from-source)
 
+## Screenshots
+
+**Side-by-side conversations**
+
+![ThoughtStream Beta showing four chat columns, with the rightmost column split into two chats.](screenshots/conversations.png)
+
+**Activity logs**
+
+![The same workspace with command output and tool results expanded above the conversations.](screenshots/activity-logs.png)
+
 ## Updates and support
 
 Choose **ThoughtStream → Check for Updates…** to check the signed beta feed. The app also checks every four hours. You choose when to install, and active agent work postpones the restart.
